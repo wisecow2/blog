@@ -20,6 +20,9 @@ author:
 # Custom vars
 version:             1.0.0
 
+plugins:
+  - jekyll-seo-tag
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://prose.github.io/starter/'
